@@ -187,4 +187,4 @@ and the capital curve.
 
 ## License
 
-MIT (or specify your preferred license).
+MIT.
